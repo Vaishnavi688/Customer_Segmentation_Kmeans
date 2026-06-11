@@ -69,7 +69,7 @@ The K-Means algorithm successfully grouped customers into different segments bas
 
 ## Author
 
-**Vaibhavi Annam**
+**Vaishnavi Annam**
 
 Information Technology Undergraduate
 Honours in Artificial Intelligence & Machine Learning
